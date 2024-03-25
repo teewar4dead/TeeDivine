@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\Tee.Core\\Tee.Core\\Tee.Core.csproj": {}
+    "D:\\CodeProjects\\TeeDivine\\Tee.Core\\Tee.Core\\Tee.Core.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\Tee.Core\\Tee.Core\\Tee.Core.csproj": {
+    "D:\\CodeProjects\\TeeDivine\\Tee.Core\\Tee.Core\\Tee.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\Tee.Core\\Tee.Core\\Tee.Core.csproj",
+        "projectUniqueName": "D:\\CodeProjects\\TeeDivine\\Tee.Core\\Tee.Core\\Tee.Core.csproj",
         "projectName": "Tee.Core",
-        "projectPath": "D:\\Programming\\Tee.Core\\Tee.Core\\Tee.Core.csproj",
+        "projectPath": "D:\\CodeProjects\\TeeDivine\\Tee.Core\\Tee.Core\\Tee.Core.csproj",
         "packagesPath": "C:\\Users\\Abyss\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\Tee.Core\\Tee.Core\\obj\\",
+        "outputPath": "D:\\CodeProjects\\TeeDivine\\Tee.Core\\Tee.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

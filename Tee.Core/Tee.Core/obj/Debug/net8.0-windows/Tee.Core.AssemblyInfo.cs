@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tee.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5d809ac50bebefece7e5b44ed166b3cecb367ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tee.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tee.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
